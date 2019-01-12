@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shaokai Ye"
+title                    : "Yuhang Jiang"
 title_separator          : "-"
-name                     : &name "Shaokai Ye"
+name                     : &name "Yuhang Jiang"
 description              : &description "personal description"
-url                      : https://yeshaokai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hanson13.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yeshaokai/yeshaokai.github.io"
+repository               : "hanson13/hanson13.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shaokai Ye"
+  name             : "Yuhang Jiang"
   avatar           : "profile.png"
   bio              : "M.S. Degree in Computer Engineering"
   location         : "Location"
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yeshaokai"
+  github           : "hanson13"
   google_plus      :
   keybase          :
   instagram        :
