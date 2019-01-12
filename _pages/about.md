@@ -16,5 +16,5 @@ During my PhD study, I also like to rise above and answer a more important quest
 
 
 * I am currently working at SenseTime Inc. as a research intern.
-* I received my M.S. degree in Computer Engineering at [Syracuse University](https://www.syracuse.edu/). My master academic advisor is [Prof. Yanzhi Wang](http://www.ece.neu.edu/people/wang-yanzhi).
-* I received my B.S. degree in Computer Engineering at [Saint Louis University](https://www.slu.edu/)
+* I received my M.S. degree in Computer Engineering at [Tsinghua University](https://http://www.tsinghua.edu.cn/). My master academic advisor is [Prof. Yanzhi Wang](http://www.ece.neu.edu/people/wang-yanzhi).
+* I received my B.S. degree in Computer Engineering at [Tsinghua University](https://http://www.tsinghua.edu.cn/)
